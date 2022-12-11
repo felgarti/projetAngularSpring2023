@@ -96,65 +96,67 @@ GET /localhost:8761/
 ## Products
 ## 1 Show all products 
 
-![image](https://user-images.githubusercontent.com/55364638/206925608-0b8e8b90-f8cf-45af-987a-550ffeb810e3.png)
+![image](https://user-images.githubusercontent.com/73041687/206929892-83e8cd20-7442-4873-9e52-eb3154df776a.png)
 
 ## 2 Edit products 
 
-![image](https://user-images.githubusercontent.com/101510983/206923795-26a19423-e941-4acd-878e-8a0ce1e3df11.png)
+![image](https://user-images.githubusercontent.com/73041687/206929756-7052ed34-740d-4058-8793-6f42bd9f5a41.png)
 
 ## 3 Delete products 
 
-![image](https://user-images.githubusercontent.com/55364638/206925748-42a715d1-4713-45a3-889a-ccb3ca042ca5.png)
+![image](https://user-images.githubusercontent.com/73041687/206929919-485dfbe1-c754-48fe-b4d7-0374a398b324.png)
 
-![image](https://user-images.githubusercontent.com/55364638/206925764-23a250e5-8a39-4293-b96c-575a22dfe68b.png)
+![image](https://user-images.githubusercontent.com/73041687/206929937-de44096c-5313-4b19-a75e-f111e5bd5d88.png)
 
 
 ## 4 Search for a product
 
-![image](https://user-images.githubusercontent.com/55364638/206925802-0b184999-ccb0-4a54-9fc9-dcf419205f83.png)
+![image](https://user-images.githubusercontent.com/73041687/206929964-4d5b51b5-e8b5-446b-b81a-c07516b63f4c.png)
 
 
 ## 5 New Product
 
-![image](https://user-images.githubusercontent.com/55364638/206925875-db2771c4-e4b0-4970-8f5d-e7c699a9b4ee.png)
+![image](https://user-images.githubusercontent.com/73041687/206930056-665a96b1-6902-46fe-9770-288308236422.png)
 
-![image](https://user-images.githubusercontent.com/55364638/206925899-ebcd1e02-dfbe-43f0-b0ca-e52d264c84a9.png)
+![image](https://user-images.githubusercontent.com/73041687/206930073-1a2a33f3-5b18-47bc-b52e-31487eaea6f4.png)
 
 ## Products
 ## 1 Show all customer
 
-![image](https://user-images.githubusercontent.com/55364638/206925644-39d57c48-dd68-4d57-a563-a76e20dabe65.png)
+![image](https://user-images.githubusercontent.com/73041687/206930084-b11cfba1-3b0e-47fb-baa3-6048a14d7184.png)
 
 
 
 ## 2 Edit Customer
 
-![image](https://user-images.githubusercontent.com/101510983/206924228-151e1ed2-e1d6-406d-8849-34da1dc34937.png)
+![image](https://user-images.githubusercontent.com/73041687/206930096-d2223830-9144-45d2-a92a-10ac9a88bf85.png)
 
 
 ## 3 Delete Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206926221-6b3c8033-4f51-420a-89eb-9634b8322d2b.png)
+![image](https://user-images.githubusercontent.com/73041687/206930116-4326434c-12c3-4900-a70a-f766b3614462.png)
+![image](https://user-images.githubusercontent.com/73041687/206930130-78344fad-71ee-49a0-92ba-43da1760b0f8.png)
+
 
 
 
 ## 4 Search Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206926003-7e101bb2-764a-4083-8270-739fa6e95709.png)
+![image](https://user-images.githubusercontent.com/73041687/206930151-de613158-8fee-417f-bb35-46c8483a2088.png)
 
 
 
 ## 5 New Customer 
 
-![image](https://user-images.githubusercontent.com/55364638/206925953-153464e1-a35e-470b-ad44-9cf09874aa25.png)
+![image](https://user-images.githubusercontent.com/73041687/206930170-202df8be-98b5-48d7-b803-c44c819677ed.png)
 
 
-![image](https://user-images.githubusercontent.com/55364638/206925982-3003c687-4601-4ee2-b88c-f0b2b58dcf3e.png)
+![image](https://user-images.githubusercontent.com/73041687/206930187-03b8b8cd-22f4-44e9-8067-e508a471b9e1.png)
 
 
 ## Bills
 ## Show Bills  
 
-![image](https://user-images.githubusercontent.com/55364638/206925572-719bdaa5-0195-46e8-b4e2-7a190a300df9.png)
+![image](https://user-images.githubusercontent.com/73041687/206930409-7593d23d-fd37-4f3d-a34e-598a04895976.png)
 
 
