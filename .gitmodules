@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/felgarti/products-angularFrontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/felgarti/atelier3-SpringCloudGatewayEurekaRegistryImplementation.git
