@@ -40,7 +40,7 @@
 GET /localhost:8888/PRODUCT-SERVICE/products
 ```
 
-![image](https://user-images.githubusercontent.com/55364638/206927699-da2bd3b9-7d1c-4ca3-837e-c9564a826ede.png)
+![image](https://user-images.githubusercontent.com/73041687/206929318-b672dbec-141f-4846-9e07-470e7a08334c.png)
 
 
 
@@ -49,7 +49,7 @@ GET /localhost:8888/PRODUCT-SERVICE/products
 GET /localhost:8888/PRODUCT-SERVICE/products/{id}
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206922542-ff3bc375-78ba-4956-92f4-0cc57ac762b8.png)
+![image](https://user-images.githubusercontent.com/73041687/206929288-ab855f6a-12ae-47e4-9e8a-886c3527f016.png)
 
 
 
@@ -58,7 +58,7 @@ GET /localhost:8888/PRODUCT-SERVICE/products/{id}
 GET /localhost:8888/CUSTOMER-SERVICE/customers
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206921889-6f2333f5-b2ac-4d27-839b-c0989720c140.png)
+![image](https://user-images.githubusercontent.com/73041687/206929347-cf40fc1f-0e02-427e-a08a-72b46ae5d758.png)
 
 
 ## 5 Customer Service - get Customer by ID
@@ -66,23 +66,23 @@ GET /localhost:8888/CUSTOMER-SERVICE/customers
 GET /localhost:8888/CUSTOMER-SERVICE/customers/{id}
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206922673-eb757211-bc70-4d62-a1c2-8248050f3133.png)
+![image](https://user-images.githubusercontent.com/73041687/206929369-0a75f580-5f7d-4d90-97cf-ce6ec9975bfa.png)
 
 
 ## 6 Bill Service - get bills
 ```http
-GET /localhost:8888/BILLING-SERVICE/fullbills
+GET /localhost:8888/BILLING-SERVICE/bills
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206922042-3f83dfcb-cb8e-4227-ae03-b5013cbf62f5.png)
+![image](https://user-images.githubusercontent.com/73041687/206929423-264ef24f-0adb-4efb-a0f9-dee57243e4d4.png)
 
 
 ## 7 Bill Service - get bill by id
 ```http
-GET /localhost:8888/BILLING-SERVICE/fullbills/{id}
+GET /localhost:8888/BILLING-SERVICE/bills/{id}
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206922866-21e9873d-ca97-4434-8cf6-57dfcaadc571.png)
+![image](https://user-images.githubusercontent.com/73041687/206929439-146e7068-33c7-4396-9771-5acfdf2cbf83.png)
 
 
 ## 8 Eureka Service 
