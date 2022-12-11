@@ -90,7 +90,7 @@ GET /localhost:8888/BILLING-SERVICE/bills/{id}
 GET /localhost:8761/
 ```
 
-![image](https://user-images.githubusercontent.com/101510983/206922145-5a50d39f-704c-4ca9-a1cc-ed65cbd20569.png)
+![image](https://user-images.githubusercontent.com/73041687/206929524-ac240628-ffa6-4c75-89ce-e0190e1b0f3b.png)
 
 # II. Frontend Angular Client :
 ## Login screen 
