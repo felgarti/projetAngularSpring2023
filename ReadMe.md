@@ -25,11 +25,7 @@
   * [5 New Customer](#5-new-customer)
   ## Bills
   * [Show Bills](#show-bills)
-# III Secured Angular Client with keycloak
-  * [1 Setup](#1-setup)
-  * [2 Postman](#2-postman)
-  * [3 Refresh Token](#3-refresh-token)
-  * [4 Client Auth Credentials](#4-client-auth-credentials)
+
 # I. Backend :
 ## 1. use case
 
@@ -161,20 +157,4 @@ GET /localhost:8761/
 
 ![image](https://user-images.githubusercontent.com/55364638/206925572-719bdaa5-0195-46e8-b4e2-7a190a300df9.png)
 
-
-# III Secured Angular Client with keycloak 
-## 1 Setup
-![image](https://user-images.githubusercontent.com/46407388/206116435-5ef5ee3e-07fa-4498-bc30-2a1baa11420f.png)
-
-
-## 2 Postman
-![image](https://user-images.githubusercontent.com/46407388/206116789-117ba8a2-f337-4fa4-9e01-5d34998c82e5.png)
-
-
-## 3 Refresh Token
-![image](https://user-images.githubusercontent.com/46407388/206116912-121fab06-38fc-4e4b-81ee-cb8013bd2ff1.png)
-
-
-## 4 Client Auth Credentials
-![image](https://user-images.githubusercontent.com/46407388/206117029-7f95a0d9-d7d1-453d-8b0b-8b157098d418.png)
 
