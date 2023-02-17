@@ -37,9 +37,6 @@
   * [1 Supplier](#1-supplier)
   * [2 Consumer](#2-Consumer)
   * [3 Kafka streams ](#3-Kafka-streams )
-  * [4 Frontend page ](#4-Frontend-page )
-
-
 
 
 # V. Docker :
@@ -213,9 +210,18 @@ GET /localhost:8761/
 
 # IV. Kafka :
 ## 1. Supplier
+
+![image](https://user-images.githubusercontent.com/73041687/219654966-8ed99356-f63b-449b-b782-480121de32f6.png)
+
 ## 2. Consumer
+
+![image](https://user-images.githubusercontent.com/73041687/219677290-25fc52df-3a92-4a65-8e3e-dbf559b2f1de.png)
+
 ## 3. Kafka streams 
-## 4. Frontend page 
+
+![image](https://user-images.githubusercontent.com/73041687/219668084-72ac27e1-849e-4fe5-bec0-9eb63685b965.png)
+
+
 
 # V. Docker :
 
