@@ -1,3 +1,4 @@
+
 #                                                         Spring cloud Microservices and Angular front-end
 
 # I. Backend :
@@ -25,6 +26,24 @@
   * [5 New Customer](#5-new-customer)
   ## Bills
   * [Show Bills](#show-bills)
+   # III. Keycloak
+  * [1 Realm](#1-realm)
+  * [2 Client](#2-client)
+  * [3 Utilisateurs](#3-users)
+  * [4 Rôles](#4-roles)
+  * [5 Tokens](#4-tokens)
+  * [6 Service sécurisé](#5-Service-sécurisé)
+  # IV. Kafka :
+  * [1 Supplier](#1-supplier)
+  * [2 Consumer](#2-Consumer)
+  * [3 Kafka streams ](#3-Kafka-streams )
+  * [4 Frontend page ](#4-Frontend-page )
+
+
+
+
+# V. Docker :
+
 
 # I. Backend :
 ## 1. use case
@@ -158,5 +177,46 @@ GET /localhost:8761/
 ## Show Bills  
 
 ![image](https://user-images.githubusercontent.com/73041687/206930409-7593d23d-fd37-4f3d-a34e-598a04895976.png)
+
+# III. Keycloak :
+```To start Keycloak
+> ...\bin\standalone.bat
+```
+
+## 1. Realm
+
+![image](https://user-images.githubusercontent.com/73041687/219620750-5378152e-a955-45e1-9bd2-699374405d80.png)
+
+## 2. Client
+
+![image](https://user-images.githubusercontent.com/73041687/219620904-dd7f3c62-636a-41c8-b327-106fa3cf47cc.png)
+
+## 3. Utilisateurs
+
+![image](https://user-images.githubusercontent.com/73041687/219620974-3fa8bea4-4be1-43c3-9b89-44841369e2f7.png)
+
+## 4. Rôles
+![image](https://user-images.githubusercontent.com/73041687/219621061-6890af29-2d3e-44c1-890a-02e970ca78b8.png)
+
+![image](https://user-images.githubusercontent.com/73041687/219621157-94bd7359-07d2-48e6-91b5-661348334d60.png)
+
+## 5. Tokens
+
+![Capture d’écran 2023-02-09 173815](https://user-images.githubusercontent.com/73041687/219621277-d957395c-559d-402a-a06a-232e1109cccf.jpg)
+
+![Capture d’écran 2023-02-09 173750](https://user-images.githubusercontent.com/73041687/219621287-ef639e50-0db2-4a9c-a805-6510b070b746.jpg)
+
+## 6. Service sécurisé
+
+![image](https://user-images.githubusercontent.com/73041687/219621563-7e6a5211-68be-44be-b764-45867cf51713.png)
+
+
+# IV. Kafka :
+## 1. Supplier
+## 2. Consumer
+## 3. Kafka streams 
+## 4. Frontend page 
+
+# V. Docker :
 
 
